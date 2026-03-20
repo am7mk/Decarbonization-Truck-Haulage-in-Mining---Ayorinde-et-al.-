@@ -46,5 +46,5 @@ end
 
 ylabel('Fleet Composition (%)');
 title('Fleet Mix vs. Technology Cost Maturity (at t=0)');
-legend({'Diesel', 'BEV', 'H2FC'}, 'Location', 'northeastoutside');
+legend({'Diesel', 'BEV', 'H2FCV'}, 'Location', 'northeastoutside');
 grid on;
