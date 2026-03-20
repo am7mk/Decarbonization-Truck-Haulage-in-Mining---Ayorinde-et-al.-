@@ -43,6 +43,6 @@ end
 xlabel('Carbon Price G ($/ton)');
 ylabel('Fleet Composition (%)');
 title('Fleet Mix vs. Carbon Price (at t=0)');
-legend({'Diesel', 'BEV', 'H2FC'}, 'Location', 'northeastoutside');
+legend({'Diesel', 'BEV', 'H2FCV'}, 'Location', 'northeastoutside');
 grid on;
 set(gca, 'XTick', G_vals);
